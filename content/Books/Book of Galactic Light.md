@@ -1,5 +1,7 @@
-> [!note]
-> Lorem ipsum dolor sit amet
+---
+date: 2022-12-21
+---
+
 # LIBER LUX GALACTICA
 The Book of Galactic Light
 

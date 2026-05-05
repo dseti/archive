@@ -43,7 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
   title: "",
-  folderClickBehavior: "link",
+  folderClickBehavior: "collapse",
   folderDefaultState: "open",
   useSavedState: true,
   // ADD THIS FILTER SECTION BELOW:
