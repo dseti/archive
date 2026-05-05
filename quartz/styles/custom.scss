@@ -1,26 +1,5 @@
 @use "./base.scss";
-.explorer-content, .toc {
-  font-family: var(--bodyFont); // Use the new Serif font for items
-  font-size: 1.05rem;           // Slightly larger for legibility
-  
-  & ul li {
-    padding: 0.3rem 0;          // Vertical breathing room
-    line-height: 1.6;           // Prevents line crowding
-    
-    & a {
-      transition: color 0.2s ease;
-      &:hover {
-        color: var(--tertiary);
-      }
-    }
-  }
-}
 
-// Enhance TOC specifically for deep nesting readability
-.toc ul {
-  padding-left: 1rem;
-  border-left: 1px solid var(--lightgray);
-}
 // put your custom CSS here!
 // 1. Increase the Base Font Size for the entire site
 :root {
@@ -31,13 +10,21 @@
 .center {
   max-width: 700px;      // The "Sweet Spot" for reading width
   margin: 0 auto;        // Keeps the column centered
-  font-size: 1.15rem;    // Ensures the content itself is large
-  line-height: 1.85;      // Increases vertical space between lines for clarity
+  font-size: 1.5rem;    // Ensures the content itself is large
+  line-height: 2rem;      // Increases vertical space between lines for clarity
   
   // 3. Make sure headers scale up with the body
   h1 { font-size: 2.5rem; }
   h2 { font-size: 2rem; }
   h3 { font-size: 1.5rem; }
+}
+.center tbody,.center li, .center p {
+  font-size: 2rem;    // Ensure tables, lists, and paragraphs all scale up
+   line-height: 2.5rem; 
+}
+.center h1, .center h2, .center h3 {
+     line-height: 3.5rem; 
+
 }
 
 // 4. Responsive adjustment: Ensure it looks good on mobile
