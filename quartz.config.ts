@@ -24,8 +24,8 @@ theme: {
   fontOrigin: "googleFonts",
   cdnCaching: true,
   typography: {
-    header: "Lexend",      // Designed specifically for high readability
-    body: "Inter",         // Exceptionally clean and legible on all screens
+    header: "Montserrat",      // Designed specifically for high readability
+    body: "EB Garamond",         // Exceptionally clean and legible on all screens
     code: "JetBrains Mono", // Slightly taller x-height for easier code reading
   },
   colors: {
