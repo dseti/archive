@@ -1,3 +1,15 @@
+---
+date: 2022-12-11
+tags:
+  - dreams
+  - shamanism
+  - hypnosis
+  - dreamwork
+  - abduction
+  - integral-studies
+  - academics
+---
+
 ## Shamanic Dreamwork as a Precedent for Alien Abduction Experience (AAE) Hypnosis
 Daniel Rekshan
 School of Integral Noetic Science, California Institute for Human Science

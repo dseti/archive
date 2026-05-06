@@ -1,3 +1,12 @@
+---
+date: 2024-09-10
+tags:
+  - uap
+  - nhi
+  - academics
+  - false-memory
+  - ethics
+---
 # Risk of Harmful False Memories in UAP Studies
 Daniel Rekshan, MA, CHt
 School of Integral Noetic Science, California Institute for Human Science

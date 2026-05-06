@@ -1,7 +1,14 @@
 ---
 date: 2022-12-21
+tags:
+  - seti
+  - dreams
+  - shamanism
+  - liberal-arts
+  - enochian-magic
+  - hypnosis
+  - ce-5
 ---
-
 # LIBER LUX GALACTICA
 The Book of Galactic Light
 

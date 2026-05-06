@@ -1,5 +1,8 @@
+---
+
+---
 Hi, I'm Daniel Rekshan.  I'm the founder of D-SETI.  I'm classically educated in the Western Liberal Arts from St. John's College, have an MA in East-West Psychology, and have training in Depth Hypnosis and Beyond Quantum Healing.  I offer hypnosis and dreamwork services for experiencers of ET/NHI contact and missing time, presenting shamanic dreamwork as an alternative to the recovered traumatic memory framework behind alien abduction narratives.  
-![](line.png)
+
 I have spent my life wresting with issues about alien abduction, false memories, hypnosis, and unexplained dream phenomena. I grew up in the 1990s and had powerful lucid dreams and nightmares that I associated with alien abduction, which secretly inspired my academic and professional interests until 2020 when I began my dreamwork practice.  I pursued a PhD based in Integral Studies about ET/NHI contact in dreams until I became overwhelmed by ethical concerns about the contemporary UAP Disclosure narratives that framed my department.  
 
 I've gone through the pendulum swing of alien abduction belief to deep skepticism and I still believe there is a real phenomenon that is unexplained by science.  The phenomenon involves dreams that feel ultra-real, involve entities, and are correlated with mysterious lights that appear physical by all accounts.

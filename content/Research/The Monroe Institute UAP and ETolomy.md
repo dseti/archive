@@ -1,3 +1,12 @@
+---
+tags:
+  - research
+  - ce-5
+  - uap
+  - seti
+  - geometry
+date: 2023-05-17
+---
 In May, 2022, my friend Dan Berg attended the UAP and Consciousness Connection conference held at the Monroe Institute and organized by David Broadwell. The event culminated in a CE-5/HICE sighting of a flashing UAP that was filmed by Rob Freeman and later confirmed as a UAP by David Palanik, director of MUFON Canada. The event was written up in the final chapter of Chris Bledsoe’s book _The UFO of God._
 
 In my quest for concurrent documentation of missing time, I wanted to ask Rob for his skywatch footage of the Atacama desert event in which Dan Berg experienced 45 minutes of missing time. This footage represents the only video documentation of a UAP concurrent with a known missing time event. The only other documentation I know about is Dr. Lynne Kitei’s photographs of [Phoenix Lights](https://legacy.dseti.org/the-geometry-of-the-phoenix-lights/) orbs.

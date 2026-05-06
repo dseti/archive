@@ -1,3 +1,12 @@
+---
+date: 2024-01-01
+tags:
+  - abduction
+  - research
+  - dreams
+  - hypnosis
+  - false-memory
+---
 # What is the legacy of the UFO Abduction Syndrome defined in 1992 with extraordinary research funding from a conspiracy between Robert Bigelow, Hans-Adam II, Prince of Liechtenstein, and three best-selling abduction authors?
 
 In 1992, the alien abduction research community defined the UFO Abduction Syndrome on the basis of the 1991 Unusual Events Survey by the Roper Organization (Mack et al., 1992).  They concluded that 2% of the population, and their children, were powerless victims of alien abduction for unknown purposes like horrific genetic harvest, resulting in a lifetime of trauma.  The community mailed 100,000 professions a booklet titled Unusual Personal Experiences and designed to appear like a clinical science paper, but was written by a history professor, modern artist, and sociologist, although it was forwarded by a Harvard psychologist who already signed a $200k book deal on the subject (Stires and Klass, 1993) .  The group organized the Abduction Study conference at MIT, specifically targeting the mental health community to make aware of their discoveries.  The definition and propagation were directly funded by Robert Bigelow and Hans-Adam II, Prince of Liechtenstein, through donations totalling more than $250k (around $560k today, see Kummer, 2020 and FUFOR, 1992), which was orders of magnitude more than any other grant provided at that time through the Fund for UFO Research (FUFOR).  

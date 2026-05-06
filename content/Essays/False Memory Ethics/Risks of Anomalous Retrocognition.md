@@ -1,3 +1,12 @@
+---
+date:
+tags:
+  - ethics
+  - academics
+  - false-memory
+  - nhi
+  - uap
+---
 # Ethical Implications of Unquestioned Mackian Research at CIHS (DRAFT): Risks of harmful false memories caused by alien mythologizing in UAP and Experiencer Studies based on an appeal to authority argument to John E. Mack’s psychiatric credentials and an appeal to emotion based on the trauma of the UFO Abduction Syndrome testimonies; or, the Risks of Anomalous Retrocognition
 
 Daniel Rekshan, MA, CHt

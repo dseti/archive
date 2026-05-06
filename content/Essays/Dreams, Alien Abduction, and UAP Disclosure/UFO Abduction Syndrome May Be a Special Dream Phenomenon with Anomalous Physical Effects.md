@@ -1,3 +1,15 @@
+---
+date: 2025-07-07
+tags:
+  - uap
+  - abduction
+  - research
+  - body-marks
+  - dreams
+  - false-memory
+  - hypnosis
+  - sleep-paralysis
+---
 # Abstract
 
 Alien abduction is a special type of dream phenomenon with anomalous physical effects. The most influential definition was published as the UFO Abduction Syndrome in Unusual Personal Experiences (Mack et al., 1992), a booklet sent by Bigelow Holding Corporation to 100,000 mental health professionals and a basis for the literary success of abduction literature by Hopkins, Jacobs, and Mack in the 1990s. Dreams and hypnosis were essential to the UFO Abduction Syndrome definition, yet no abduction researcher backing the ET hypothesis in the 1990s referenced scientific literature regarding sleep and dreams in their definitive works (see Table 1). While mainstream science argues that abduction is no more than sleep paralysis or fantasy proneness, this paper argues that it is a unique type of dream with anomalous physical effects, therefore blurs the conventional boundaries of dream and reality. This paper supports this position through several methods including a literature analysis of the UFO Abduction Syndrome authors’ references to sleep and dream science, a demonstration of similarity between dreams, abduction, and hypnosis based upon scientific findings, and a consideration of anomalous evidence used to support the UFO Abduction Syndrome hypothesis in the context of dream studies. Several common challenges and misconceptions regarding the argument are considered. This paper presents testable hypotheses with references to relevant experiment designs for scientific validity testing of the thesis that abductions are a special type of dream.

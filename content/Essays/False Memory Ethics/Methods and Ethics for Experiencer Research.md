@@ -1,3 +1,13 @@
+---
+date: 2025-06-19
+tags:
+  - ethics
+  - abduction
+  - research
+  - uap
+  - nhi
+  - hypnosis
+---
 # Methods and Ethics for Experiencer Research (MEER)
 White Paper and Digital Humanities Project Proposal 
 For the Center for Anomalous and Noetic Sciences (CANS)

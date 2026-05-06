@@ -1,3 +1,11 @@
+---
+tags:
+  - DIAL
+  - body-marks
+  - dreams
+  - seti
+date: 2023-05-15
+---
 The day after I analyzed my [own DIAL body mark](https://legacy.dseti.org/dial-on-june-20-2022-in-canada/), I sought for other examples of the mark. I immediately found a Reddit post about a body mark that expressed similar geometry. Interestingly, I had been in a slow conversation with the experiencer about hypnosis and dreamwork, but had not connected the conversation with the experiencer until after performing the analysis.
 
 The experiencer describes their story here: [https://www.reddit.com/r/Abductions/comments/qoazgw/some_of_my_alien_experiences_with_markings_pics/](https://www.reddit.com/r/Abductions/comments/qoazgw/some_of_my_alien_experiences_with_markings_pics/) Their story includes dream-like encounters with Tall Greys, intuitions regarding hybridization, and several other body marks. They also participated in CE-5 or HICE-like experiences, which may also be a common factor of the DIAL marking.

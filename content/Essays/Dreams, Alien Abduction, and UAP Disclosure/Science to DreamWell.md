@@ -1,3 +1,10 @@
+---
+date: 2022-01-01
+tags:
+  - research
+  - dreams
+---
+
 *I was a co-founder and the Chief Dream Officer of DreamWell, a mobile app for mindfulness, sleep and dream well being.  I wrote this essay as a way to ground DreamWell's culture and curriculum in dream studies literature.  It documents my understanding of dreams at the start of my D-SETI work and may be relevant to those who want an overview of sleep, dreams, and mindfulness.*
 # Introduction
 

@@ -1,5 +1,13 @@
 ---
 tags:
+  - dreams
+  - seti
+  - shamanism
+  - research
+  - academics
+  - dreamwork
+  - memory
+  - ce-5
 ---
 
 >[!NOTE]

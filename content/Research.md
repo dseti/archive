@@ -1,9 +1,11 @@
-My D-SETI Quadrilogy of books document my own practice of Dream SETI.  I have had a life-long practice of making art books and dream journals, which I continued with D-SETI.  My practice of CE-5 (human initiated contact with ET/NHI through alleged psychic means) inspired my first book, The [Book of Galactic Light](Book%20of%20Galactic%20Light.md).  My practice of dreamwork as an alternative to memory recovery hypnosis inspired [Missing Time Found](Missing%20Time%20Found.md).  My personal lucid  dream practice guided by anomalous body marks inspired my inquiry into body marks as evidence for alien encounters, which I methodically conducted in [Field Guide to Anomalous Geometry](Field%20Guide%20to%20Anomalous%20Geometry.md).   The D-SETI Research Institute Proposal presents a technical vision to achieve SETI using dreams. 
+Experiencers and dreamers often connect with Daniel and D-SETI because they have a story worth telling.  Whether or not you know exactly what happened, you probably suspect that your story may expand our understanding of reality.
 
+I collect, analyze, and write about stories of dreams and encounters with supernatural entities.  I see these dreams and stories as testimony, an essential ritual of many spiritual traditions, like the hypnosis and healing traditions derived from Dolores Cannon or the ancient traditions of Asclepius, the ancient Greek god of dreams and medicine. 
 
-And this was edited on my phone. TESTING
+When I use hypnosis, it is to induce a hypnotic dream, which I interpret through a shamanic and integral framework, not to recover or investigate a historic memory.  When I examine alien abduction body marks, it is not to generate evidence, rather it is to elucidate meaning.
 
-testing builds
+I am an independent researcher with an education in integral studies and the Western liberal arts.  My crisis about the [Risk of Harmful False Memories in UAP Studies](Risk%20of%20Harmful%20False%20Memories%20in%20UAP%20Studies.md) and related essays document my journey withdrawing from my PhD program because of unresolved ethical concerns.  I now believe that research into NHI/UAP encounters, supported by the authority of accredited institutes, lacks an ethical, or even scientific, foundation. 
 
-#missing-time
-#ufo
+My dreams compel me to research them.  The stories that I am honored to share with my dreamwork clients compel my belief that something real and powerful is happening beyond the confusion and controversy of alien abduction lore and UAP disclosure. 
+
+If you have a story you would like to share or you've been touched by a mystery, please [get in contact me](Contact.md).

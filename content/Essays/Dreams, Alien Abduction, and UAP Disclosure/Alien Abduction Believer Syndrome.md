@@ -1,3 +1,15 @@
+---
+date: 2024-03-01
+tags:
+  - abduction
+  - dreams
+  - false-memory
+  - research
+  - hypnosis
+  - uap
+  - missing-time
+  - memory
+---
 # Abstract
 
 A new interpretation of the UFO Abduction Syndrome, defined in the 1992 Unusual Personal Experiences booklet, suggests that there is a syndrome associated with belief in alien abduction that may manifest in false memories, paranoid thoughts, fear, anxiety, and PTSD.  This paper defines the Alien Abduction Believer Syndrome (AABS) and identifies its cause in two epistemological fallacies: the myth of repressed memory and the monophasic bias.  AABS appears to affect two populations: abductees, now termed experiencers, and those who integrate abductee testimony into their worldviews. It is estimated there are tens of thousands of abduction reports. 60% of the population believes in the myth of repressed memory and nearly 80% believe the government may cover-up signs of alien visitation.  While the original abduction researchers advocated for the disempowering reality of abduction trauma, this report argues for empowering reality that abduction events are both dreamlike and real, thereby advocating that the experiencer is capable of mediating their ET/NHI encounter phenomena for their benefit.  Additional resources and research for further inquiry is indicated. This document is crafted as a literary parody of Unusual Personal Experiences and should not be considered a clinical argument, although its references list does include clinically relevant research.

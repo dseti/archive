@@ -1,5 +1,12 @@
-DIAL on June 20, 2022 in Kimberley, BC Canada
-
+---
+date: 2022-06-20
+tags:
+  - body-marks
+  - dreams
+  - research
+  - geometry
+  - DIAL
+---
 This dots-in-a-line (DIAL) body mark was experienced by me on June 20, 2022.  I was in the sauna and looked down at my leg and experienced several things at once.  
 
 ![](https://legacy.dseti.org/wp-content/uploads/2023/05/vyxh5oao1p9a1-edited-1.webp)

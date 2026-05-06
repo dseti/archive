@@ -1,3 +1,11 @@
+---
+date: 2024-03-17
+tags:
+  - abduction
+  - research
+  - academics
+  - dreams
+---
 # Subtle Energies of Alien Abduction
 Daniel Rekshan
 School of Integral Noetic Science, California Institute for Human Science

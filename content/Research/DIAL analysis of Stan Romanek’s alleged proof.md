@@ -1,3 +1,12 @@
+---
+date: 2023-05-16
+tags:
+  - abduction
+  - body-marks
+  - DIAL
+  - research
+  - geometry
+---
 The most famous example of the DIAL body mark is presented in Extraordinary: the Stan Romanek story. Stan is an experiencer who documented hundreds of encounters. However, he was convicted of charges related to subject matters I will not name on this website. The documentary suggests that he was framed. I bring this up first and foremost as a disclaimer for anyone looking into the story. For me, the geometry is clear and he is clearly a DIAL experiencer, regardless of his criminal status. It should be obvious to anyone reading this that I firmly believe in the DIAL experience as an anomalous means of NHI communication, otherwise I would not associate my claims with such a challenging story to work with.
 
 # Stan’s DIAL story

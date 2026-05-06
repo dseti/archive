@@ -1,3 +1,11 @@
+---
+date: 2023-05-16
+tags:
+  - DIAL
+  - dreams
+  - nhi
+  - research
+---
 A Redditor posted in February 2023 about a few of their body markings including two DIALs and one scoop mark. The DIAL mark is a phenomenon that I experienced in June 2022 and discovered in January 2023 through the direct instruction of dream characters that I have associated with a Tall Gray ET dream character, although they would claim a different classification.
 
 # Confirmation of DIAL phenomenon

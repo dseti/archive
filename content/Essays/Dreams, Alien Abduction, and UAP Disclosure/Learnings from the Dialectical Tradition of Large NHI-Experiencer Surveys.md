@@ -1,3 +1,13 @@
+---
+date: 2024-06-16
+tags:
+  - abduction
+  - academics
+  - research
+  - false-memory
+  - hypnosis
+  - ethics
+---
 # Learnings from the Dialectical Tradition of Large ET/NHI-Experiencer Surveys
 Daniel Rekshan
 School of Integral Noetic Science, California Institute for Human Science

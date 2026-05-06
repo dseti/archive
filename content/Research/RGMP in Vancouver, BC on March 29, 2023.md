@@ -1,3 +1,11 @@
+---
+date: 2023-03-29
+tags:
+  - research
+  - RGMP
+  - dreams
+  - geometry
+---
 Experiencer contacted me via the [RGMP Facebook Group](https://www.facebook.com/groups/395600297698549) requesting an analysis.  I provided a brief introduction to the hypothesis that RGMP is related to dream or entity encounters and requested permission to include my analysis in a research project, which the experiencer granted provided that their identity remain private.  
 
 Experiencer identified an arrow shape on their back shoulder.  They told me they dream and have regular spiritual experiences.  They asked if I thought it was RGMP. The mark appears to be consistent with RGMP in its sudden and mysterious appearance, as well as an intuition of meaning that inspires the experiencer to explore the enigma.  This experiencer had checked in once a month until I made time to perform this analysis.

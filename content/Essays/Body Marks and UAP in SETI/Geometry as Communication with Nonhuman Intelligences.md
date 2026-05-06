@@ -1,3 +1,13 @@
+---
+date: 2023-03-17
+tags:
+  - geometry
+  - seti
+  - dreams
+  - body-marks
+  - uap
+  - academics
+---
 # Geometry as Communication with Nonhuman Intelligences
 Daniel Rekshan
 School of Integral Noetic Science, California Institute for Human Science

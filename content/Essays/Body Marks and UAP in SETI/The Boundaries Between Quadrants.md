@@ -1,3 +1,14 @@
+---
+date: 2023-12-10
+tags:
+  - geometry
+  - academics
+  - body-marks
+  - abduction
+  - dreams
+  - integral-studies
+---
+
 # The Boundaries Between Quadrants: An Integral Study of Anomalous Geometric NHI-associated Body Marks
 Daniel Rekshan
 Integral Noetic Science, California Institute for Human Science

@@ -1,3 +1,15 @@
+---
+date: 2024-06-14
+tags:
+  - academics
+  - body-marks
+  - uap
+  - dreams
+  - abduction
+  - phenomenology
+  - seti
+---
+
 # Alien Abduction Body Marks: A Phenomenological Connection Between UFOs and Alien Dreams
 Daniel Rekshan
 School of Integral Noetic Science, California Institute for Human Science

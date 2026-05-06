@@ -1,3 +1,12 @@
+---
+tags:
+  - RGMP
+  - body-marks
+  - dreams
+  - research
+  - uap
+date: 2023-11-09
+---
 A Red Grid Mark Phenomenon (RGMP) experiencer watched the US Congressional hearing on UAPs, went to sleep, then awoke to find this mark on his back.  He reached out to me to provide context and look into the geometry of the mark.  This post documents my initial observations of the mark.  I am about half-way to conclusions, will need to conduct more research, then attempt a construction based on my hypotheses that I’m documenting here.
 
 Here is his story from Reddit:

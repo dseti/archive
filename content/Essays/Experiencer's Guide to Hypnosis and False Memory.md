@@ -1,3 +1,13 @@
+---
+date: 2024-12-02
+tags:
+  - hypnosis
+  - false-memory
+  - ethics
+  - nhi
+  - uap
+  - abduction
+---
 Experiencers of extraterrestrial (ET) or nonhuman intelligence (NHI) contact often consider hypnosis to gain insight into the nature of their experiences, yet are also cautious about its risks.  Experiencers are people who report perceived contact with ET/NHI entities that are sometimes associated with unidentified anomalous phenomena (UAP).  Alien abduction narratives historically inform our cultural understandings of NHI/UAP contact, which were originally defined in terms of disturbing dreams and their interpretation through hypnotic regression by researchers like John Mack, David Jacobs, or Budd Hopkins.  Therefore, the history of hypnosis and false memory research is important for experiencers of NHI/UAP contact to understand even if they are not considering hypnosis.
 
 Hypnosis can offer many types of support, exploration, development, or connection for experiencers beyond its traditional use to recover repressed memories of NHI/UAP contact.  Hypnosis involves the universally human tendency to dream in the trance experience and to share our dreams through the testimony generated from the process.  However, there are many confusions that may be obstacles for experiencers in their journey.  Therefore, this guide seeks to address confusion through education about hypnosis specifically for experiencers.

@@ -1,3 +1,11 @@
+---
+tags:
+  - RGMP
+  - research
+  - geometry
+  - NDE
+date: 2023-05-17
+---
 In October 2021, a Harvard-trained plastic surgeon underwent surgery on their brain tumor. Two-week later, she experienced the Red Grid Mark Phenomenon, which she associates with her surgery experience and recovery I worked with the experiencer in a dreamwork session modeled on hypnotic regression. It must be noted that hypnotic regression is a problematic source of knowledge, although it is personally meaningful, because it engages non-veridical and imaginal modes of experience. Their case is particularly interesting because of their medical training specifically related to skin and the level of medical intervention in their lives at the time. It is reasonable to assume that if a MD actively supported by a medical team could not explain the mark, then it is conventionally unexplainable. This experiencer had an intuition of meaning associated with the mark and turned to dreamwork as a mode of inquiry.
 
 ![](https://legacy.dseti.org/wp-content/uploads/2023/05/rmpg.png)

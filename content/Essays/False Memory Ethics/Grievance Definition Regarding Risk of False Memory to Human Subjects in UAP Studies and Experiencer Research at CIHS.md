@@ -1,3 +1,13 @@
+---
+date: 2025-02-10
+tags:
+  - false-memory
+  - ethics
+  - research
+  - uap
+  - nhi
+  - academics
+---
 # Grievance Definition Regarding Risk of False Memory to Human Subjects in UAP Studies and Experiencer Research at CIHS
 Daniel Rekshan, MA, CHt
 School of Integral Noetic Science, California Institute for Human Science

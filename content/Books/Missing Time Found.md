@@ -1,4 +1,15 @@
-
+---
+date: 2023-10-19
+tags:
+  - dreams
+  - seti
+  - missing-time
+  - hypnosis
+  - shamanism
+  - memory
+  - uap
+  - ce-5
+---
 # MISSING TIME FOUND
 *Don’t worry, it’s just a dream*
 A new and old hypothesis regarding ET/NHI and UFO/UAP associated missing time

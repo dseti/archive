@@ -1,3 +1,10 @@
+---
+date: 2023-03-08
+tags:
+  - geometry
+  - uap
+  - research
+---
 Podcasters [Jeremy Corbell and George Knapp recently released videos of a UAP](https://www.weaponizedpodcast.com/news-1/mojave-triangle-uap) taken on a marine base near 29 Palms in California that resemble the Phoenix Lights. There has been news and social media attention of their release of the videos and some implication that the entire events were only flares. I have been the only researcher in nearly 26 years to [apply Euclidean Constructive Geometry to the Phoenix Lights](https://legacy.dseti.org/the-geometry-of-the-phoenix-lights/), which demonstrates several geometric characteristics that may imply that the Lights are an intelligent and intentional communication using the [universal language of geometry](https://legacy.dseti.org/geometry-as-communication-with-nonhuman-intelligences/).
 
 The Phoenix Lights are two distinct phenomena that occurred around March 13, 2023. First, there was a “boomerang” craft that was seen flying over the state. Second, there was a geometric formation of lights, orbs, or flares (depending on your perspective) that expressed clear and distinct geometry, as [filmed by Tom King](https://ufovideo.com/site/page.php?id=9). Tom has done wonderful research putting together a [timeline of the events](https://ufovideo.com/site/page.php?id=9) and sharing his [discovery of UAPs that express similar geometry](https://ufovideo.com/site/news.php?extend.69). It appears that his deeply embodied a geometric intuition associated with the Phoenix Lights in 1997 enabled his intuitive identification of the UAP pattern.

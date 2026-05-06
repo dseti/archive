@@ -1,3 +1,12 @@
+---
+tags:
+  - dreams
+  - uap
+  - seti
+  - geometry
+  - research
+date: 2023-05-17
+---
 After discovering confirmation of the DIAL phenomenon in the “[2-dot DIAL](https://legacy.dseti.org/two-dot-dial-and-more-tall-gray-et-dreams/)“, I immediately looked to the Phoenix Lights as a precedent for the body-mark geometry I analyzed. I can’t tell you exactly how I made the connection, it felt like the geometry reminded me of something and I needed to know what it was. It was like trying to remember something that you forgot you forgot.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_QIex-No3LE?si=P2OCDhV3o3VY90H5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

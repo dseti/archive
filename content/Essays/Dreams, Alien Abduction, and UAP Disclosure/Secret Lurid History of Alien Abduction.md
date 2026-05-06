@@ -1,3 +1,13 @@
+---
+date: 2024-03-01
+tags:
+  - abduction
+  - research
+  - body-marks
+  - hypnosis
+  - false-memory
+  - ethics
+---
 # Where is the physical evidence for alien abduction and why do people keep saying it exists?
 ## The Secret Lurid History of Alien Abduction
 

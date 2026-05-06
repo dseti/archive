@@ -1,15 +1,24 @@
 ---
 title: Welcome to D-SETI
+tags:
+  - nhi
+  - dseti
+  - overview
+  - research
+  - dreams
+  - seti
+  - missing-time
 ---
 # Welcome to D-SETI Dreamwork
 ## The **Dream Search for Extra-Terrestrial Intelligence**.  
 
-D-SETI Dreamwork is a **professional dreamwork and hypnosis service** offering and content production brand for the [shamanic dreaming hypothesis of ET/UFO missing time](/uap-dreams) by Daniel Rekshan, a life-long experiencer of anomalous dreams, sufferer of [Alien Abduction Believer Syndrome](/aabs), and an integral researcher. 
-* [Book a call to discuss your dream](/contact)
-* [Check out my books](/books)
-* [Contribute to research](/research)
+D-SETI Dreamwork is a **professional dreamwork and hypnosis service** offering and content production brand for the [shamanic dreaming hypothesis of ET/UFO missing time](Shamanic%20Dreamwork%20as%20a%20Precedent%20for%20Alien%20Abduction%20Experience%20(AAE)%20Hypnosis.md) by Daniel Rekshan, a life-long experiencer of anomalous dreams, sufferer of [Alien Abduction Believer Syndrome](Alien%20Abduction%20Believer%20Syndrome.md), and an integral researcher. 
+* [Contact](Contact.md) me to schedule a time to chat
+* Check out my [books](Books.md)
+* Learn more about [dreamwork](Dreamwork.md)
+* Contribute to [research](Research.md) 
 ## You are a dreamer and experiencer
-Whatever you call yourself or your experiences, **you have experienced things beyond your comprehension** that make you question your reality.  You have likely had experiences like sleep paralysis, out of body experience, strong intuitions, and more physical phenomena that you hesitate to acknowledge in public.  Y**ou are seeking a resolution to their mystery**.  
+Whatever you call yourself or your experiences, **you have experienced things beyond your comprehension** that make you question your reality.  You have likely had experiences like sleep paralysis, out of body experience, strong intuitions, and more physical phenomena that you hesitate to acknowledge in public.  **You are seeking a resolution to their mystery**.  
 ## Of extraordinary and anomalous experiences
 Something about your experiences compels you forward.  Something doesn't add up.  **Even if you can't prove it, you now know that reality is beyond what you were ever taught**.  You are here because you need to make meaning from these experience.  You were drawn to this page because of curiosity, because something inside you knows that your journey will lead beyond reason. 
 ## Like ET/UFO (NHI/UAP) contact
@@ -52,7 +61,6 @@ If you are interested in Western Esotericism and wondering what you're doing on 
 D-SETI stands for the Dream Search for ExtraTerrestrial Intelligence.  Or the Dream Study of ExtraTerrestrial Intelligence.  **It is the idea that lucid, shamanic, and telepathic dreams could be a means of SETI.**  This idea has inspired by professional, academic, and artistic activities since around 2012 in response to a childhood involving alien abduction science fiction and real extraordinary dream phenomena like lucid dreaming.
 
 D-SETI Dreamwork is the sole proprietorship through which I offer my dreamwork services, do technical work like data analysis or content production, and publish my books.  
-
 ## Hi, I'm Daniel
 ![Hi, I'm Daniel](https://dseti.org/wp-content/uploads/2026/05/Daniel-Rekshan-headshot.png)
  I'm the founder of D-SETI.  I've had lucid and strange dreams of aliens all my life, feared it was alien abduction, then discovered through dreamwork and academic research that the common, yet often unacknowledged, phenomenon of shamanic dreaming.  I hope that D-SETI Dreamwork can help provide you insight and transformation about your dreams, nightmares, and extraordinary experiences.

@@ -1,3 +1,13 @@
+---
+date: 2023-06-18
+tags:
+  - dreams
+  - integral-studies
+  - academics
+  - shamanism
+  - research
+---
+
 # Dreaming as a Domain of Nondual Realization
 Daniel Rekshan
 School of Integral Noetic Science, California Institute for Human Science
