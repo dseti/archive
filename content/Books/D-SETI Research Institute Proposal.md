@@ -16,9 +16,9 @@ tags:
 
 To explore the legacy of the 1990s Abduction Studies derived from Unusual Personal Experiences. Supported by the academic papers presented in this booklet along with a trilogy of books:
 
-1. [Book of Galactic Light] explores John Dee as a precedent for contemporary NHI contact, interlocution, and trance work operationalized for intelligence purposes.
-2. [Missing Time Found] presents the shamanic dreaming hypothesis of NHI contact, arguing that unremembered REM dreaming is the only natural precedent for missing time, therefore shamanic dreaming is the natural precedent for regression hypnosis.
-3. Galethog the Grey’s [Field Guide to Anomalous Geometry] explores body marks as physical evidence for alien abduction, concluding that the body mark evidence supporting the 1992 definition of UFO Abduction Syndrome were religious testimonies and not scientific claims, yet also demonstrating there is a real NHI encounter phenomenon underlying alien abduction narratives.
+1. [Book of Galactic Light](Book%20of%20Galactic%20Light.md)explores John Dee as a precedent for contemporary NHI contact, interlocution, and trance work operationalized for intelligence purposes.
+2. [Missing Time Found](Missing%20Time%20Found.md) presents the shamanic dreaming hypothesis of NHI contact, arguing that unremembered REM dreaming is the only natural precedent for missing time, therefore shamanic dreaming is the natural precedent for regression hypnosis.
+3. Galethog the Grey’s [Field Guide to Anomalous Geometry](Field%20Guide%20to%20Anomalous%20Geometry.md) explores body marks as physical evidence for alien abduction, concluding that the body mark evidence supporting the 1992 definition of UFO Abduction Syndrome were religious testimonies and not scientific claims, yet also demonstrating there is a real NHI encounter phenomenon underlying alien abduction narratives.
 
 Daniel Rekshan, MA, CHt  
 
@@ -712,7 +712,7 @@ Pritchard, A., Pritchard, D. E., Mack, J. E., Kasey, P., & Yapp, C. (1994). Alie
 
 Raduga, M., Shashkov, A., & Zhunusova, Z. (2021). Emulating alien and UFO encounters in REM sleep. International Journal of Dream Research, 247-256.
 
-Ramirez , J. on LightNet (2021, May 18). John Ramirez talks about his first contact in Dreams #MyFirstContact [Video]. YouTube. [https://www.youtube.com/watch?v=BCL3WZINzRw](https://www.youtube.com/watch?v=BCL3WZINzRw)
+Ramirez , J. on LightNet (2021, May 18). John Ramirez talks about his first contact in Dreams MyFirstContact [Video]. YouTube. [https://www.youtube.com/watch?v=BCL3WZINzRw](https://www.youtube.com/watch?v=BCL3WZINzRw)
 
 Ramirez, J. on OPUS Network. (2023, April 21). John Ramirez, Ex-CIA member reveals facts about the inner workings of the government and the CIA. [Video]. YouTube. [https://www.youtube.com/watch?v=3WHrfDGAtWM](https://www.youtube.com/watch?v=3WHrfDGAtWM) 
 

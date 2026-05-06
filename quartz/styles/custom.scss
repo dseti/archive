@@ -10,13 +10,16 @@
 .center {
   max-width: 700px;      // The "Sweet Spot" for reading width
   margin: 0 auto;        // Keeps the column centered
-  font-size: 1.5rem;    // Ensures the content itself is large
+  font-size: 1.35rem;    // Ensures the content itself is large
   line-height: 2rem;      // Increases vertical space between lines for clarity
   
   // 3. Make sure headers scale up with the body
-  h1 { font-size: 2.5rem; }
-  h2 { font-size: 2rem; }
-  h3 { font-size: 1.5rem; }
+  h1 { font-size: 3.5rem; }
+  h2 { font-size: 3rem; }
+  h3 { font-size: 2.5rem; }
+}
+.page article h1 {
+  font-size: 3.5rem;    // Ensure H1 headers in articles are large
 }
 .center tbody,.center li, .center p {
   font-size: 2rem;    // Ensure tables, lists, and paragraphs all scale up
