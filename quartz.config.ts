@@ -11,6 +11,7 @@ const config: QuartzConfig = {
     pageTitle: "D-SETI Dreamwork",
     pageTitleSuffix: "",
     enableSPA: true,
+    enableGPA: true,
     enablePopovers: true,
     analytics: {
       provider: "google",
@@ -68,11 +69,11 @@ theme: {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false, wikilinks: true, }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.HardLineBreaks(), // <--- Add this line here
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "shortest", prettyLinks: true }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],

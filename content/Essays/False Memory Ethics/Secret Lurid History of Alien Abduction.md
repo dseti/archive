@@ -7,6 +7,10 @@ tags:
   - hypnosis
   - false-memory
   - ethics
+permalink: lurid-history
+slug: lurid-history
+aliases:
+  - lurid-history
 ---
 # Where is the physical evidence for alien abduction and why do people keep saying it exists?
 ## The Secret Lurid History of Alien Abduction

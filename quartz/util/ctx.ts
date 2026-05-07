@@ -35,12 +35,14 @@ export function trieFromAllFiles(allFiles: QuartzPluginData[]): FileTrieNode<Bui
   const trie = new FileTrieNode<BuildTimeTrieData>([])
   allFiles.forEach((file) => {
     if (file.frontmatter) {
-      trie.add({
+      // Use the actual file path for tree organization
+      const pathSegments = (file.relativePath as string).replace(/\.md$/, "").split("/")
+      trie.insert(pathSegments, {
         ...file,
         slug: file.slug!,
         title: file.frontmatter.title,
         filePath: file.filePath!,
-      })
+      } as BuildTimeTrieData)
     }
   })
 

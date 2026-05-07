@@ -9,6 +9,8 @@ tags:
   - uap
   - missing-time
   - memory
+slug: alien-abduction-believer-syndrome
+title: Alien Abduction BS
 ---
 # Abstract
 

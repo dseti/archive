@@ -42,6 +42,6 @@
   }
 }
 
-.explorer-toggle {
-  display: none!important; // Hide the explorer toggle button on mobile
+.explorer .fold {
+   display: none; /* Hides the fold icons in the file explorer */
 }

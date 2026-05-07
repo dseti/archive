@@ -1,0 +1,5 @@
+I produced the DSETI Knowledge Base as an exploration of using LLMs to analyze texts.  I used ChatGPT and Gemini to produce a system that took a corpus of text, then identified the case studies, major claims, and important references of the text.  For example, the first text I gave it was Jung's UFO dream book.  I created an archive of most influential books to my DSETI inquiry, as well as my own, to produce a knowledge base.
+
+This project taught me a lot about using LLMs for text research, how they hallucinate, and how to actually accomplish work with the LLM you can trust.   While I have taken care to ground this knowledge base in the actual text and I have spot tested it, I would verify any fact before I took it seriously.
+
+I am sharing these folders as a prototype example of the type of work I am doing with AI and NHI narratives.  I have since focused my technical work on a much larger project that built around knowledge basis mapped in linguistic space where you can dream journal or engage with AI around your journal and the knowledge base.

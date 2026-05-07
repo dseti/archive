@@ -18,7 +18,7 @@ I offer lengthy initial conversations because you probably have a story that you
 It needs to be free and no-obligation because we're building rapport.  You need to trust me with your story, which defines your reality at some level to your dreaming mind.  
 
 ## Why I offer sliding-scale donation services?
-My services are offered by sliding-scale donations, based on a rate of $90 USD per 90 minute session, which I will "discount" in packages or recurrent scheduling ($60 per session when recurrent).  I will send you a donation link after the session, along with links to our recording (if desired).  This process is modeled after my first mentor in Core Shamanism, Tereza Morena.
+My services are offered by sliding-scale donations, based on a rate of 90 USD per 90 minute session, which I will "discount" in packages or recurrent scheduling ($60 per session when recurrent).  I will send you a donation link after the session, along with links to our recording (if desired).  This process is modeled after my first mentor in Core Shamanism, Tereza Morena.
 
 My work involves dream shamanism, which involves respecting the dream and its characters as if they are real, while learning to discern the reality and meaning of a variety of dreams.  My dream guides insist that I offer this service in this way so that cash is not a barrier.
 

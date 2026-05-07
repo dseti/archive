@@ -10,7 +10,7 @@ tags:
   - missing-time
 ---
 ![The Dream Search for ExtraTerrestrial Intelligence](The%20Dream%20Search%20for%20ExtraTerrestrial%20Intelligence.png)
-D-SETI Dreamwork is a **professional dreamwork and hypnosis service** offering and content production brand for the [shamanic dreaming hypothesis](Shamanic%20Dreamwork%20as%20a%20Precedent%20for%20Alien%20Abduction%20Experience%20(AAE)%20Hypnosis.md) of ET/UFO missing timeby Daniel Rekshan, a life-long experiencer of anomalous dreams, sufferer of [Alien Abduction Believer Syndrome](Alien%20Abduction%20Believer%20Syndrome.md), and an integral researcher. 
+D-SETI Dreamwork is a **professional dreamwork and hypnosis service** offering and content production brand for the [shamanic dreaming hypothesis](Shamanic%20Dreamwork%20as%20a%20Precedent%20for%20Alien%20Abduction%20Experience%20(AAE)%20Hypnosis.md) of ET/UFO missing timeby Daniel Rekshan, a life-long experiencer of anomalous dreams, sufferer of [Alien Abduction Believer Syndrome](/alien-abduction-believer-syndrome), and an integral researcher. 
 * [Contact](Contact.md) me to schedule a time to chat
 * Check out my [books](Books.md)
 * Learn more about [dreamwork](Dreamwork%20and%20Hypnosis.md)

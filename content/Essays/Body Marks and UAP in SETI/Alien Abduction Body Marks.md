@@ -8,6 +8,7 @@ tags:
   - abduction
   - phenomenology
   - seti
+permalink:
 ---
 
 # Alien Abduction Body Marks: A Phenomenological Connection Between UFOs and Alien Dreams
