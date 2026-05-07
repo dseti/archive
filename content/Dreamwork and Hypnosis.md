@@ -1,3 +1,4 @@
+![You are a dreamer](You%20are%20a%20dreamer.png)
 D-SETI Dreamwork is an alternative to memory recovery hypnosis used by alien abduction researcher.  It is not for everyone and does not necessarily lead to memory recovery at all.  Rather, it honors the experience of ET/NHI missing time as a shamanic calling that is responded to through hypnosis.  It is based in on my certification in Depth Hypnosis and Beyond Quantum Healing, as well as training and education in my MA in East-West Psychology at CIIS.  
 
 My dreamwork services are for more than ET contact or SETI.  I often work with people about lucid dreams, Western esoteric practices, or their exploration of ET/NHI contact topics.  Some people schedule recurrent time with me, which I hold as a practice of spiritual counselling.  Some people want to explore a memory of contact.  Some people just feel called and are responding to synchronicity.

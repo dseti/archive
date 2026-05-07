@@ -13,7 +13,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-
+        <p><strong>D-SETI Dreamwork</strong> - The Dream Search for ExtraTerrestrial Intelligence</p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>

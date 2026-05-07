@@ -29,7 +29,11 @@
      line-height: 3.5rem; 
 
 }
-
+.folder-container li{
+   
+    margin-bottom: .35rem;
+ 
+}
 // 4. Responsive adjustment: Ensure it looks good on mobile
 @media all and (max-width: 900px) {
   .center {

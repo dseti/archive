@@ -28,20 +28,6 @@ ISBN: 9798876668530 
 
 To Dr. Michael Wolf, who blazed the trail.
 
-# Books by Daniel Rekshan
-Available on Amazon or D-SETI (https://dseti.org)
-## The D-SETI Quadrilogy
-- Galethog the Grey’s Field Guild to Anomalous Geometry
-- Missing Time Found
-- Book of Galactic Light
-- D-SETI Research Institute Proposal
-## Other Books by Daniel Rekshan
-- *The Alchemists’ Dream is Now Achieved*
-- *Preface and Epilogue to the History of the World*
-- *Prophecies for New Babylon*
-- *On Realizing Divine Identity*
-- *An Illustrated Guide to Practical Dreaming*
-
 # Abbreviations
 
 AQAL – All quadrants, all levels; shorthand for integral theory (see Wilber)

@@ -76,6 +76,7 @@ Every function you can pass is optional. By default, only a `sort` function will
 // Sort order: folders first, then files. Sort folders and files alphabetically
 Component.Explorer({
   sortFn: (a, b) => {
+    console.log("sorting", a, b)
     if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
       return a.displayName.localeCompare(b.displayName, undefined, {
         numeric: true,

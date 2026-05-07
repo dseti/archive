@@ -1,3 +1,4 @@
+![The ruler and compass](The%20ruler%20and%20compass.png)
 Experiencers and dreamers often connect with Daniel and D-SETI because they have a story worth telling.  Whether or not you know exactly what happened, you probably suspect that your story may expand our understanding of reality.
 
 I collect, analyze, and write about stories of dreams and encounters with supernatural entities.  I see these dreams and stories as testimony, an essential ritual of many spiritual traditions, like the hypnosis and healing traditions derived from Dolores Cannon or the ancient traditions of Asclepius, the ancient Greek god of dreams and medicine. 

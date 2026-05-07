@@ -13,7 +13,8 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-0STV2RH15F",
     },
     locale: "en-US",
     baseUrl: "dseti.org",
@@ -75,6 +76,7 @@ theme: {
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
+        
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
@@ -91,7 +93,7 @@ theme: {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
+      // Plugin.CustomOgImages(),
     ],
   },
 }

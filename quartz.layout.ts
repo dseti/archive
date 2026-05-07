@@ -46,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
   folderClickBehavior: "collapse",
   folderDefaultState: "open",
   useSavedState: true,
-  // ADD THIS FILTER SECTION BELOW:
+ 
   filter: (node) => {
     // List the names of folders or the specific slugs you want to hide
     const omit = ["tags", "Tags", "templates", "private"]
@@ -58,7 +58,7 @@ export const defaultContentPageLayout: PageLayout = {
 }),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
@@ -82,7 +82,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    // Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
