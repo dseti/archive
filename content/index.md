@@ -21,7 +21,8 @@ D-SETI Dreamwork is a **professional dreamwork and hypnosis service** offering a
 Whatever you call yourself or your experiences, **you have experienced things beyond your comprehension** that make you question your reality.  You have likely had experiences like sleep paralysis, out of body experience, strong intuitions, and more physical phenomena that you hesitate to acknowledge in public.  **You are seeking a resolution to their mystery**.  
 
 ## Of extraordinary and anomalous experiences
-![You are a dreamer](You%20are%20a%20dreamer.png)Something about your experiences compels you forward.  Something doesn't add up.  **Even if you can't prove it, you now know that reality is beyond what you were ever taught**.  You are here because you need to make meaning from these experience.  You were drawn to this page because of curiosity, because something inside you knows that your journey will lead beyond reason. 
+![You are a dreamer](You%20are%20a%20dreamer.png)
+Something about your experiences compels you forward.  Something doesn't add up.  **Even if you can't prove it, you now know that reality is beyond what you were ever taught**.  You are here because you need to make meaning from these experience.  You were drawn to this page because of curiosity, because something inside you knows that your journey will lead beyond reason. 
 
 ## Like ET/UFO (NHI/UAP) contact
 ![Dreams of the Other Beyond](Dreams%20of%20the%20Other%20Beyond.png)
