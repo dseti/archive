@@ -23,6 +23,7 @@ My services are offered by sliding-scale donations, based on a rate of 90 USD pe
 My work involves dream shamanism, which involves respecting the dream and its characters as if they are real, while learning to discern the reality and meaning of a variety of dreams.  My dream guides insist that I offer this service in this way so that cash is not a barrier.
 
 I generally commit to an initial series of sessions for any donation level, although I may ask for permission to publish future writing on our sessions or inquiry together, which I understand as the spiritual practice of testifying.  
+
 # How will your session or communications be used?
 I will record your session only after you agree.  I will publish your story or my research on it only after you agree.  Generally, I will write a detailed report about my inquiry that I will have you review, then will publish via my blog or a document, after which I will refer to that document in my future research. 
 
