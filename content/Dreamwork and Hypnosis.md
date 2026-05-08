@@ -27,7 +27,7 @@ There are many other influences on D-SETI Dreamwork, which include Carl Jung and
 
 ## Is D-SETI Dreamwork as modality or special type of dreamwork?
 
-Yes and no.  I was trained in Depth Hypnosis, Beyond Quantum healing, and educated about a lot of psycho-spiritual modalities.  I've synthesized it into my practice and I've honed it down to a repeatable process that I've documented in a draft process definition document and in a training curriculum.  
+Yes and no.  I was trained in Depth Hypnosis, Beyond Quantum healing, and educated about a lot of psycho-spiritual modalities.  I've synthesized it into my practice and I've honed it down to a repeatable process that I've documented in a draft process definition document and in a training curriculum (see [[D-SETI Dreamwork Process]]).  
 
 ## How is dreamwork like hypnosis?
 
