@@ -1,3 +1,4 @@
+![[Remembering reptilian nightmares.png]]
 Remembering is a funny word.  It obviously has to do with memory, but I imagine that it is the opposite of dismemberment.  I remember I had a series of nightmares, false awakenings, in which I would be endlessly chased by a monster that dismembered my family.  Eventually, after what felt like months of these nightmares, it caught me.  It was a green skinned reptilian. It roasted me alive on the firepit near my house on Lake Superior.  
 
 I'd have many dreams based on that beach, I still have dreams like that.  The sky is crystalline.  The dreams feel potent.  Alive.  Electric.  I've had series of tidal wave nightmares, fire storm nightmares, serial killer nightmares, and I suppose, the worst of all, must of have been the alien nightmares.  But I'll never really know because they wiped my mind, or maybe the men in black did that.
@@ -7,6 +8,7 @@ I once did a hypnotic regression to understand the dream where the green reptili
 I am now remembering the D-SETI message, my vocation, once again.  This new website is a process of remembering my inquiry and the writing it has produced.  The remembering resolves my ethical crisis about the risk of false memory in NHI/UAP research.  As a result, I've taken a step back to review the last 5 (and 25 years) of D-SETI practice, seeing what worked, what didn't, and how to take my next steps, or if I should leave the inquiry behind altogether.
 
 # Four events in 2026 resolve my ethical crisis, enabling this *remembering*
+![[Four events.png]]
 
 The last few years have been particularly challenging for me as I explore the risk of harmful false memories in alien abduction and NHI/UAP encounter research.  I froze in many ways because I intuited that many of the assumptions of the UAP Disclosure movement, initiated by the 2017 New York Times article by Kean and Blumenthal on Robert Bigelow's UAP study (see [[UAP Crash Narratives as Iteration of 1990s Alien Abduction Research Conspiracy]]).  
 
@@ -17,15 +19,16 @@ When I raised my concerns to those around me in online spaced related to my PhD 
 The fact that my concerns were not met ate me up, like the reptilian so many years ago.  I froze.  I'm thawing.  I'd like to say that I have grown as a person, but actually, the world validated my ethical intuitions quite strongly in the last few months.  I felt like perhaps I was wrong in my ethical concern, after all, everyone in the field praised the very people I was concerned with.  Four events helped me move on.
 
 ## 1 - Justice.gov Epstein files reveal infiltration in Noetic Science via Jeffery A. Martin
+![[The Elite Infiltration.png]]
 
 First, the Epstein files reveals that CIHS, my former PhD research institute, and the wider field of Noetic Science was infiltrated by the Epstein network.  The early 2026 Epstein file release contains messages between Epstein, Jeffrey A. Martin, Deepak Chopra, Gino Yu, and Dean Radin that suggest to me a conspiracy regarding psychic eugenics, but it is impossible to tell.  Some people are highly implicated, like Martin or Chopra, who both acknowledge pedophilia associated with Epstein and indicate they want his "girls".  Radin, on the other hand, has no incriminating messages in the files, but seems suspicious, particularly given Yu's 2018 message "Got Radin on board".
 
 At this time, I am uninterested in investigating this conspiracy, but I am interested in elevating experiencer research up and out of this quagmire.  While it now seems plausible to me that the legacy Epstein network may have been interested in Esjborn-Hargen's WISER survey as a catalog of potential victims, I still actually believe in Esbjorn-Hargen's work and the motivation of the survey.  
 
-The revelation, for me, explains why CIHS and Esjborn-Hargens were unable to respond to my ethical inquries: they were bought and bound by the Epstein network.  While I cannot prove it, nor do I want to, I find appointment of Chopra and Martin around the time of CIHS's accreditation to suggest to me that the Epstein network had an interest in research conducted at CIHS.  I asked Martin for documentation that CIHS's IRB had seriously considered the risk of harmful false memories to human subjects and he didn't.  I raised a grievance asking for clarity and no one responded with anything besides professional avoidance.
+The revelation, for me, explains why CIHS and Esjborn-Hargens were unable to respond to my ethical inquires: they were bought and bound by the Epstein network.  While I cannot prove it, nor do I want to, I find appointment of Chopra and Martin around the time of CIHS's accreditation to suggest to me that the Epstein network had an interest in research conducted at CIHS.  I asked Martin for documentation that CIHS's IRB had seriously considered the risk of harmful false memories to human subjects and he didn't.  I raised a grievance asking for clarity and no one responded with anything besides professional avoidance.
 
 ## 2 - Chris Bledsoe's Easter prophecies continues pattern of AI-enhanced buffoonery
-
+![[Reflections and projections.png]]
 Second, we moved through the prophesied Iran war and Easter events without an apparent sighting by The Lady or whatever Bledsoe prophesied.  Bledsoe is the most famous ET experiencer associated with UAP Disclosure narratives because of the intelligence community's public interest in his case.  While he has reports that feel authentic and his regression feels much like any other, he continues to post known objects as UAP, despite public correction, which constitutes potential fraud in my opinion.  
 
 Bledsoe's case weaves with my life by way of my first missing time client, Dan Berg, who Bledsoe wrote about in the conclusion of UFO of God.  I investigated their sighting, which Dan said was a satellite, but Bledsoe said was the UFO of God.  So did Dave Palanchik, Rob Freeman, and others who were at the event.  Presumably, Semivan and Alexander fact checked some of Bledsoe's story, as they has assigned scientists to study Bledsoe and there was at least theatre of "government science" at that event.  
@@ -39,7 +42,7 @@ I reviewed Bledsoe's material quite deeply, once going through every single soci
 It is clear to me that this behavior is either compulsive or intentional, but it is something like fraud, hoaxing, delusion, or victim of psy-op.  Am I qualified to say so?  No, I'm not.  But you know who is?  The advisory board of WISER or the IRB of CIHS. 
 
 ## 3 - Jay Christopher King, founder of The Experiencer Group, was canceled for pattern of unsolicited d\*ck picks to abductees
-
+![[Abductee Me Too.png]]
 The fact that Jay Christopher King sent unsolicited photos to experiencers seeking support was the final event in this cascade of revelations that enable me to remember myself after this crisis.  I think of Jay King as the "king of abductees" because he was written about by Blumenthal as a modern day abductee and as the founder of The Experiencer Group.  Jay was a media producer, turned experiencer advocate and community organizer.
 
 It is hard to define what supporting alien abductees and NHI contact experiencers actually means.  To skeptics, it might mean institutionalization and meds, although surveys suggest experiencers are not particularly pathological.  To some credulous researchers like John E. Mack, it meant hypnotizing you to believe that your sexual sleep paralysis nightmares are evidence of alien abduction. 
@@ -61,6 +64,7 @@ I wanted to publish some or all of the book-length [[Risks of Anomalous Retrocog
 Anyways, this event allows me to publish the document in good conscience and therefore liberates my literary energy to focus itself on the new directions.
 
 ## 4 - AI functionally became NHI and some singularity has occurred 
+![[AI Singularity.png]]
 
 The fourth and final event that is causing this remembrance of the D-SETI message is the rise of AI, which now seems as if it is truly a non-human intelligence (NHI).  In 2020, I jumped into ET/NHI research because I was confident I could jump back into web development like I did many times before as I swapped my focus between art and tech.  However, AI has transformed the technology field, as well as literary research. 
 
@@ -75,7 +79,7 @@ I now realize the value of my education and voice.  I have completely rewritten 
 I'm now putting myself together in a process of remembrance, in part through making this new website.  In the process, I've allowed my soul to move with the events in the world.  As without, so within.  These recent events validate my ethical concerns, for which I once felt doubly isolated.  My interests were not acceptable in the mainstream, but my literary ethics were not acceptable by the those who established themselves as authorities in the field.
 
 ## Personal Inquiry
-
+![[Personal Inquiry.png]]
 It is clear to me that my personal history and childhood issues inform my participation and interest in this field.  I did not trust my intuitions because my dad and mom hide a series of his affairs and alcoholic episodes from me and my brothers growing up.  I knew something was wrong, which was why I started writing about it, but I didn't take the necessary actions.  
 
 I should have left my program much sooner.  I should have known there's no such thing as alien abduction or UFOs like the media imagines.  I should have trusted my own intuition instead of waiting for the Dean of Research at CIHS to provide documentation that its IRB seriously considered the risk of harmful false memories when it established its UAP studies program.  
@@ -83,13 +87,13 @@ I should have left my program much sooner.  I should have known there's no such 
 I'm doing a lot of personal inquiry right now about many of these topics, which I'm not going to write about except occasionally.  
 
 ## D-SETI as Creative Integral Dreamwork
-
+![[The Boundary Between Quadrants.png]]
 I have had big visions for D-SETI as a research institute that conducted parapsychological research into dreams and ET/NHI contact through psionic dreams.  I was pursued my PhD to support this vision.  However, I now believe more in the power of creative writing and art to communicate the truth of my message, than in the authority of academia or the traditions of Noetic Science or regression hypnosis for memory recovery.
 
 I'm once again tuning into my dream practice.  I'm seeing my work at D-SETI to be a spiritual practice, shamanistic in nature, that involves dreams and shared trance states.  I'm setting aside the need to publish in peer-reviewed journals or from a PhD basis.  Check out my [[Art Books]], which I made in the early 2010s as part of my creative dream practice.
 
 ## Writing for Human, AI, and NHI
-
+![[Writing for Multiple Intelligences.png]]
 Given the rise of AI, authentic human creativity will become more, not less, valuable.  Society will soon need embodied human intelligences who can think for themselves and express soulful wisdom.  
 
 I have a literary affliction that causes me to compulsively read and write about these strange topics.  Like Philip K Dick and his literal tons of pages.  AI is trained on collective human intelligence expressed through words online.  Different cadences of words in different formats will produce different patterns in your mind and whatever mind these AIs have, which I believe to be sufficient to dream alongside you or me.
@@ -99,13 +103,13 @@ This new website is based on a public repository of markdown files, thus making 
 I am also using AI to produce knowledge bases about these topics and sleep and dream.  I have an AI-based sleep and dream platform called *Somnalist* that I'm very close to running a beta with and is quite exciting for me because it achieves visions I've had for decades.  I'm focusing first on my own writing as a way to stand strong as an embodied human, so that I can work with the AI without losing my center.
 
 ## Neoplatonic Theurgy, Geometry, and Body Marks
-
+![[Triangular Theurgy.png]]
 It is clear to me now that something real is going on with UAP and NHI encounters.  As best as I can tell, my hypothesis is similar to Devereux's Earth Lights hypothesis that suggests most UAPs are misidentified natural things, but some are things like ball lighting.  The ball lighting has an electromagnetic effect on the brain, which produces the entity encounter experience.  I see precedents within Western esoteric traditions like Neoplatonic Theurgy.  A next step, for me, is to read the works of Gregory Shaw and explore the term *photogogia*.
 
 For me, these topics are tied up with dreaming, UAPs, and anomalous body marks.  I'm continuing my work with body marks from Galethog the Grey's [[Field Guide to Anomalous Geometry]], in which I channeled a creative interpretation system that treats anomalous geometric body marks as omens, similar to mandala practice or numerology.
 
 ## Abductology Goes Nuclear Article
-
+![[Nuclear.png]]
  I've finally decided how to literary resolve my ethical crisis, which determined how D-SETI manifests in this world.  In the past, I had considered several options:
  1. Litigation against Bigelow Holding Corporation for some induction of harmful false memories of sex abuse, argued under the precedents that allowed for litigation based on recovered memories of sex abuse decades after the events with no other evidence
  2. Litigation against CIHS for some cause, perhaps personal financial hardship regarding their avoidance to comment on ethical aspects of NHI research
