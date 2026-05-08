@@ -80,3 +80,8 @@ D-SETI Dreamwork is the sole proprietorship through which I offer my dreamwork s
  I'm the founder of D-SETI.  I've had lucid and strange dreams of aliens all my life, feared it was alien abduction, then discovered through dreamwork and academic research that the common, yet often unacknowledged, phenomenon of shamanic dreaming.  I hope that D-SETI Dreamwork can help provide you insight and transformation about your dreams, nightmares, and extraordinary experiences.
 
 If you have had dreams of ETs, experiences of the extraordinary, and D-SETI inspires you or intrigues you, please feel free to [get in touch](/contact) with me.
+
+> [!note]
+> This website is publishes the D-SETI Corpus, a collection of my writing I now release to the Creative Commons under a non-commercial share-alike license.   You can access the raw files at https://github.com/dseti/archive. 
+> 
+> The dataset is very easy to use, it is based in Obsidian and Markdown, which is a simple syntax for structuring raw text that is human and machine readable.   
