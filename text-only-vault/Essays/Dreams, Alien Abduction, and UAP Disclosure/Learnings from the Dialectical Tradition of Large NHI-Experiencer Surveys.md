@@ -1,0 +1,81 @@
+---
+date: 2024-06-16
+tags:
+  - abduction
+  - academics
+  - research
+  - false-memory
+  - hypnosis
+  - ethics
+---
+# Learnings from the Dialectical Tradition of Large ET/NHI-Experiencer Surveys
+Daniel Rekshan
+School of Integral Noetic Science, California Institute for Human Science
+INS 754: Anomalous Research Practicum
+Dr. Sean Esbjörn-Hargens
+June 16, 2024
+
+# Introduction
+
+The greatest learnings and takeaways I have from the Anomalous Research Practicum derive from my first-person experience in helping to build a survey that intends to understand anomalous experiences including alien abduction.  During the Subtle Energies II class, I deeply studied the 1992 booklet Unusual Personal Experiences, which defined the UFO Abduction Syndrome on the basis of a public opinion poll of nearly 6,000 people (Mack et al., 1992).  While it is outside of the scope of this paper, it may be argued that the UFO Abduction Syndrome is an influential definition of alien abduction.  All the abduction researchers who put forward the ET hypothesis (Hopkins, Jacobs, and Mack) and many academic researchers look to this definition as authoritative (Appelle et al., 2014).  Similarly, the FREE Survey involved several thousand people and sought to understand ET encounters, although they pivoted to using the term non-human intelligence (NHI) during their survey (Hernandez et al., 2018).  Both surveys deeply impacted my personal and academic journey, consequently I am grateful that this practicum could provide first person experience to contribute to my integral study of alien abduction research.
+
+I will spend most of this paper reflecting on the relationship of surveys, research, experience, and the alien abduction phenomenon.  However, I gained many learnings about noetic science from The Science of Channeling by Wahbeh (2021) and about survey design from Surveys that Work by Jarrett (2021).  Taken together, both books outline an effective path to generating knowledge about noetics through surveys.  I will likely explore small surveys with my body mark and missing time experiencers in my private practice, as well as the lucid dreamers who are using my DreamWell app. 
+
+I will directly apply my learnings to a casual research project I have on-going with the Red Grid Mark Phenomenon (RGMP) experiencers group.  RGMP is an anomalous body mark phenomenon involving characteristic red dots or diamonds set in a regular grid.  It mysteriously appears, is sometimes associated with vivid dreams, and remains unexplained.  I wrote about my session work with a Harvard-trained plastic surgeon who discovered the mark while supported by a medical team during her own brain tumor surgery in my book Missing Time Found.  I write about several other experiencers, as well as several historical precedents, in my book Galethog the Grey’s Field Guide to Anomalous Geometry.  
+
+The RGMP has been studied by at least two communities: 1) ExperientialDreaming.com conducted interviews with hundreds of experiencers who associated the marks with entity encounters in vivid dreams and 2) RGMP Experiencers and Researchers Facebook Group has 2.5k members and conducted a 50+ question survey.  I came across the phenomenon when I first started my hypnosis/dream practice and paid attention to the marks, which seemed like crop-circle communication to me.  A series of marks seemed particularly communicative and humorous to me, which inspired me to record a CE-5/HICE invitation for body marks that I credit for my later experience with anomalous geometric body marks.  I have worked with a number of experiencers in the geometric analysis of their marks or dreamwork/hypnosis intended to gain insight about the marks.  I have conducted a casual survey about their dreams, which I opened with the intention to review when I learned more about survey design.  Thanks to this practicum, it is now time to explore these dreams and take the next step.
+
+My dissertation may involve a focus on geometric body marks as SETI-style communication, which is a hypothesis I developed in my final paper for the Foundations of Integral Studies class and developed in my book Galethog the Grey’s Field Guide to Anomalous Geometry.  There seems to be a phenomenon of geometric body marks that is associated with alien abduction, light orb UAPs, and vivid dreams.  While it seems non-harmful and explainable through psycho-somatic mechanisms involving non-physical NHIs, the notion of body-marks have been made taboo and terrifying by the Unusual Personal Experiences survey.  People are literally dreaming of aliens and angels who visit them, take them on spiritual journeys, and share with them the secrets of the universe, while writing on the bodies geometries beyond conscious comprehension that are elegant and communicative.  
+
+Dream-related geometric body marks are one of the most beautiful and powerful phenomena I have encountered, yet it is shrouded in a mystique of horror and ridicule because of the status of alien abduction research in our culture.  The Unusual Personal Experiences survey definitively associated body marks with alien abduction when they ascertained that around 8% of people report puzzling body marks, which is the same number as those who report missing time.  Taken with all the other indicators, these numbers lead the researchers to conclude that 2% of people were alien abductees.  Most people who report body marks, in my opinion, at least consider that they may have symptoms of alien abduction.  Even those who do not believe in the possibility will comment about abduction.  However, I have seen similar body marks used as evidence for past-lives, demonic interactions, and other spiritual events (Laycock, 2012; Shenefelt and Shenefelt, 2014).
+
+My reflections throughout the practicum centered on alien abduction as a false memory.  I read the Memory Illusion by Shaw (2016), which was a great summary of false memory research, along with numerous research articles about the subject.  I learned that:
+
+- False memories of traumatic events may cause PTSD like genuine trauma (McNally et al., 2004)
+- Researchers can induce or reverse rich auto-biographical false memories through simple interview techniques (Oeberst et al., 2021)
+- Researchers could induce false memory or change beliefs regarding rich autobiographical memory using intentional dream interpretation techniques (Mazzoni et al., 1999)
+- False memory may act as a contagion in online groups (Maswood, 2022)
+- Around 60% of people including scientists and psychologists still believe in the myth of repressed memory (Otgaar et al., 2019)
+
+It has been interesting to juxtapose my body mark research with the early 1990s research inspired by Unusual Personal Experiences. Like the abduction experiencers, I am also confronted with testimony about shared witnessing of light orb UAPs, dreamlike encounters with aliens, and the mysterious appearance of geometric body marks.  Unlike the abduction researchers, I am open to the possibility that the dream characters themselves may be responsible for the marks by way of some psychosomatic mechanism like stigmata or marks that correspond with dream content. Given that many of the body mark phenomena are related to dreams and that false memories may be induced through dream interpretation, I align my dreamwork with ethical guidelines put forward by the International Association of the Study of Dreams (IASD, n.d.).
+
+During my dissertation research, I may consider anomalous geometric body marks associated with dream encounters with NHIs and/or CE-5/HICE encounters with light orbs.  Similar to the abduction researchers, I would like to define a phenomenon and measure its prevalence.  A survey would be an appropriate way to do this, which is how I might apply my learnings from this course to my dissertation.  Similar to SEGRI (or WISEN), I envision using a survey to find candidates to interview.  
+
+I also reflected on the approach to conducting a survey.  In the case of Unusual Personal Experiences, the researchers sought to measure a newly defined phenomenon that was mysterious and dreamlike.  The publisher assumed the survey was valid and took action to inform the mental health community by mailing 100k professionals the booklet and organizing a series of conferences.  They assumed that the indicators actually measured the phenomenon of alien abduction.  In contrast, the FREE Survey did not make the assumption of being representative.  They sought to understand the experience of ET/NHI contact, not measure its prevalence within a population.  Similarly, WISEN is targeting super-experiencers as a way to document and understand their experience, not to prove or measure a specific phenomena.  I apply this takeaway in my research by focusing on intuitions of ET/NHI contact, not memories.
+
+It seems that there is a dialectical progression occurring with surveys about ET/NHI contact involving several thousand participants.  First, Unusual Personal Experiences defined the UFO Abduction Syndrome using ten indicators of abduction, many of which are also indicators of exotic dream states like sleep paralysis, and in terms of dreamlike memories retrieved through hypnosis.  In simple terms, the researchers naively accepted dreams and hypnosis as real. Second, the FREE Survey examined ET/NHI experiences as distinct from dreams and hypnosis by using terminology like “conscious recall”.  In simple terms, the researchers naively rejected dreams and hypnosis as real in order to assert that dreamlike things are real.  Finally, perhaps as a synthesis, WISEN accepts testimony derived from dreams and hypnosis with the understanding that they require interpretation.  In my eyes, this lineage of surveys represents a transition of an element of culture from a monophasic perspective to an embodied polyphasic perspective (Laughlin and Rock, 2014), which may correspond with one of Wilber’s lines or stages of development.
+
+In conclusion, I will reflect on my journey.  I began this course processing negative emotions triggered by my research into Unusual Personal Experiences. I blamed the survey, the researchers, and their poor research practices for the unethical appropriation of exotic yet natural dream phenomena like entity encounters or OBE into the UFO Abduction Syndrome.  In learning about false memory and trying to come up with questions about anomalous experiences, I have come to a greater appreciation and empathy for the UFO Abduction Syndrome researchers.  Through this work, I’ve realized that research is a dialectical process involving a tradition of researchers who express worldviews derived from their wider culture.  At some point, we’re unable to define just what an experiencer is, even though most people in the practicum had a strong intuition.  
+
+A blog post by the John E Mack Institute characterizes this learning for me (JEMI, 2011).  The post regards Rainey’s 2011 article that exposed Hopkins and Jacobs as unethical researchers and deeply questioned the methods of amateur regression hypnosis.  They referenced Kathy Davis, who was the subject of Hopkins’ Intruders, who complained that Hopkins jumped to conclusions like a light was a UFO or a perceived being was an alien.  The post makes it apparent that much of the confusion about alien abduction could have been resolved by describing the phenomenon as it was experienced over promoting a single hypothesis.  In reviewing the false memory literature, it seems the difference between inducing a false memory and a meaningful dream interpretation may be the intention of the interpreter. The practicum was a wonderful way to embed many positive intentions from many researchers into the survey and I am proud to have contributed in some way.
+
+# References
+
+Appelle, S., Lynn, S. J., Newman, L., & Malaktaris, A. (2014). Alien Abduction Experiences. In Cardeña, E., Lynn, S. J., & Krippner, S. (Eds.). Varieties of anomalous experience: Examining the scientific evidence. Washington, DC: American Psychological Association.
+
+Hernandez, R., Davis, R., & Schild, R. (2018). A Study on Reported Contact with Non-Human Intelligence Associated with Unidentified Aerial Phenomena. Journal of Scientific Exploration, 32(2).
+
+IASD. (n.d.). Ethics in Dreamwork and teaching Dreamwork.  International Association for the Study of Dreams. https://asdreams.org/ethics
+
+Jarrett, C. (2021). Surveys that work: A practical guide for designing and running better surveys. Rosenfeld Media.
+
+JEMI. (2011). “The Priests of High Strangeness”: A warning about expectations. [Blog post] John E. Mack Institute. http://johnemackinstitute.org/2011/01/the-priests-of-high-strangeness-a-warning-about-expectations/ 
+
+Laughlin, C. D., & Rock, A. J. (2014). What can we learn from shamans’ dreaming? A cross-cultural exploration. Dreaming, 24(4), 233.
+
+Mack, J. E., Hopkins, B., Jacobs, D. M., & Westrum, R. (1992). Unusual personal experiences: An analysis of the data from three national surveys conducted by the Roper organization. Bigelow Holding Corporation.
+
+Maswood, R., Luhmann, C. C., & Rajaram, S. (2022). Persistence of false memories and emergence of collective false memory: Collaborative recall of DRM word lists. Memory, 30(4), 465-479.
+
+Mazzoni, G. A., Loftus, E. F., Seitz, A., & Lynn, S. J. (1999). Changing beliefs and memories through dream interpretation. Applied Cognitive Psychology: The Official Journal of the Society for Applied Research in Memory and Cognition, 13(2), 125-144.
+
+McNally, R. J., Lasko, N. B., Clancy, S. A., Macklin, M. L., Pitman, R. K., & Orr, S. P. (2004). Psychophysiological responding during script-driven imagery in people reporting abduction by space aliens. Psychological Science, 15(7), 493-497.
+
+Oeberst, A., Wachendörfer, M. M., Imhoff, R., & Blank, H. (2021). Rich false memories of autobiographical events can be reversed. Proceedings of the National Academy of Sciences, 118(13), e2026447118.
+
+Otgaar, H., Howe, M. L., Patihis, L., Merckelbach, H., Lynn, S. J., Lilienfeld, S. O., & Loftus, E. F. (2019). The return of the repressed: The persistent and problematic claims of long-forgotten trauma. Perspectives on Psychological Science, 14(6), 1072-1095.
+
+Shaw, J. (2016). The Memory Illusion: Why You Might Not be who You Think You are. Doubleday Canada.
+
+Shenefelt, P. D., & Shenefelt, D. A. (2014). Spiritual and religious aspects of skin and skin disorders. Psychology Research and Behavior Management, 201-212. [https://doi.org/10.2147/PRBM.S65578](https://doi.org/10.2147/PRBM.S65578) 
+Wahbeh, H. (2021). The Science of Channeling: Why You Should Trust Your Intuition and Embrace the Force That Connects Us All. New Harbinger Publications.**
