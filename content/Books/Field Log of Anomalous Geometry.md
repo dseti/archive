@@ -30,7 +30,7 @@ My essay [[Essays/SETI/The Boundaries Between Quadrants|The Boundaries Between Q
 
 I am interested in anomalous geometric body marks associated with dream, trance, or waking encounters with entities typically called alien, angel, spirits, NHI, daemons, or whatever you experienced.  Most of the marks I look at now are from people who remember dreams or encounters, who have some sort of spiritual practice, and who thinks that these are omens or messages as well.  Most are from people who feel compelled by the strangeness, paranormality, or mystery of the event to testify to its unexplained yet significant nature.
 
-My essay [[Essays/SETI/Geometry as Communication with Nonhuman Intelligences|Geometry as Communication with Nonhuman Intelligences]] explores how anomalous geometric body marks may constitute a SETI style signal from NHIs.
+My essay [[Geometry as Communication with Nonhuman Intelligences|Geometry as Communication with Nonhuman Intelligences]] explores how anomalous geometric body marks may constitute a SETI style signal from NHIs.
 
 
 ## Body mark interpretation as a religious practice
