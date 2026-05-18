@@ -1,4 +1,4 @@
-![Triangle Earth Lights Mystery](Triangle%20Earth%20Lights%20Mystery.png)
+![[Art/Triangle Earth Lights Mystery.png]]
 DSETI Dreamwork is a sole proprietorship in British Columbia operated by Daniel Rekshan.  I provide professional hypnosis, dreamwork, spiritual counselling, publication, and occassional technical services through DSETI Dreamwork.  
 
 These terms of service define my vocational and spiritual practice of dreamwork service in the style of regression hypnosis for experiencers of ET/NHI or UFO/UAP missing time and related phenomena.  

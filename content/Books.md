@@ -2,7 +2,7 @@
 permalink: books-test
 ---
 
-![Books](Books.png)
+![[Art/Books.png]]
 My D-SETI Quadrilogy of books document my own practice of Dream SETI.  I have had a life-long practice of making art books and dream journals, which I continued with D-SETI.  My practice of CE-5 (human initiated contact with ET/NHI through alleged psychic means) inspired my first book, The [Book of Galactic Light](Book%20of%20Galactic%20Light.md).  My practice of dreamwork as an alternative to memory recovery hypnosis inspired [Missing Time Found](Missing%20Time%20Found.md).  My personal lucid  dream practice guided by anomalous body marks inspired my inquiry into body marks as evidence for alien encounters, which I methodically conducted in [Field Guide to Anomalous Geometry](Field%20Guide%20to%20Anomalous%20Geometry.md).   The D-SETI Research Institute Proposal presents a technical vision to achieve SETI using dreams. 
 
 If you'd like a free PDF copy of any book, or my earlier writing, please send me an email at daniel@dseti.org and I'd be happy to send you the PDFs.  Use the Amazon links to buy a physical copy or digital copy, which really does help support my work.  

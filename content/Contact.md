@@ -1,4 +1,4 @@
-![ET contact](ET%20contact.png)
+![[Art/ET contact.png]]
 Hi, I'm Daniel.  I wrote each word on this website and in my books because I care about extraordinary dreams and encounters.  I am honored to speak with people about a variety of psycho-spiritual phenomena like alien abduction, dreams, hypnosis, trance, creativity, and so on.  If you connect with me and my work, and you'd like to get in touch, you can send me an email (daniel@dseti.org) or schedule a time to chat.
 
 > [!NOTE]

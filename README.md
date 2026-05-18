@@ -4,6 +4,20 @@
 This repository contains an Obsidian Vault (/content) and Quartz files to publish the DSETI Corpus through https://dseti.org.
 
 
+
+robocopy . "..\text-only-vault" *.md /S /XD "DSETI Knowledge Base"
+
+
+Get-ChildItem -Path "..\text-only-vault" -Filter "*.md" -Recurse | ForEach-Object {
+    $header = "`n`n--- DOCUMENT START: $($_.FullName.Replace('C:\dseti-archive\text-only-vault\', '')) ---`n"
+    $header | Out-File -FilePath "..\grounding_source.md" -Append -Encoding utf8
+    Get-Content $_.FullName | Out-File -FilePath "..\grounding_source.md" -Append -Encoding utf8
+}
+
+
+
+
+
 ```
 Copyright (c) 2026 Daniel Rekshan
 
