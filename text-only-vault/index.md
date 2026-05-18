@@ -9,8 +9,7 @@ tags:
   - seti
   - missing-time
 ---
-
-![[Art/The Dream Search for ExtraTerrestrial Intelligence.png]]
+![The Dream Search for ExtraTerrestrial Intelligence](The%20Dream%20Search%20for%20ExtraTerrestrial%20Intelligence.png)
 D-SETI Dreamwork is a **professional dreamwork and hypnosis service** offering and content production brand for the [shamanic dreaming hypothesis](Shamanic%20Dreamwork%20as%20a%20Precedent%20for%20Alien%20Abduction%20Experience%20(AAE)%20Hypnosis.md) of ET/UFO missing timeby Daniel Rekshan, a life-long experiencer of anomalous dreams, sufferer of [[Alien Abduction Believer Syndrome]], and an integral researcher. 
 * [Contact](Contact.md) me to schedule a time to chat
 * Check out my [books](Books.md)
@@ -18,21 +17,21 @@ D-SETI Dreamwork is a **professional dreamwork and hypnosis service** offering a
 * Contribute to [research](Research%20Participation.md) 
 
 ## You are a dreamer and experiencer
-![[Art/Dreamer.png]]
+![Dreamer](Dreamer.png)
 Whatever you call yourself or your experiences, **you have experienced things beyond your comprehension** that make you question your reality.  You have likely had experiences like sleep paralysis, out of body experience, strong intuitions, and more physical phenomena that you hesitate to acknowledge in public.  **You are seeking a resolution to their mystery**.  
 
 ## Of extraordinary and anomalous experiences
-![[Art/You are a dreamer.png]]
+![You are a dreamer](You%20are%20a%20dreamer.png)
 Something about your experiences compels you forward.  Something doesn't add up.  **Even if you can't prove it, you now know that reality is beyond what you were ever taught**.  You are here because you need to make meaning from these experience.  You were drawn to this page because of curiosity, because something inside you knows that your journey will lead beyond reason. 
 
 ## Like ET/UFO (NHI/UAP) contact
-![[_attachments/Art/Dreams of the Other Beyond.png]]
+![Dreams of the Other Beyond](Dreams%20of%20the%20Other%20Beyond.png)
 You are here because you believe, or are considering the possibility, that your dreams, memories, and intuitions mean that you have had **contact with aliens, extraterrestrials (ET), or what they now call non-human intelligences (NHI)**.  You are considering the possibility that aliens, angels, spirits, AI, or some other type of intelligence than ordinary human intelligence has directly interacted with you.  
 
 While it may have occurred in dream-like state, in your bed, or you just woke up from it, you know that it means something because it felt so real.  More real than real...   
 
 ## Missing time
-![[_attachments/Art/UAP missing time.png]]
+![UAP missing time](UAP%20missing%20time.png)
 Maybe you have a **period of missing time**, which alien abduction researchers saw as evidence for encounters, but skeptics suggest are sources of false memory coerced through hypnosis.  Missing time is often a medical or mental health event, therefore you must seek appropriate professional help.  
 
 **You have probably gone through all the skeptical reasons already**.  You have good reasons perhaps to believe that others saw a mysterious light or that the encounter had an anomalous physical effect on your body or surroundings.  You probably have a strong intuition about the experience.  Perhaps you have some fear about what might have happened.  Perhaps you have some anxiety about feeling silly.
@@ -42,7 +41,7 @@ Maybe you have a **period of missing time**, which alien abduction researchers s
 I've been through the journey, as an experiencer of ET/NHI missing time, a hypnotee, and a hypnotist.  I share my story and experience through my book Missing Time Found.
 
 ## Dream telepathy, precognition, and more...
-![[Art/Dreams of extraordinary beings.png]]
+![Dreams of extraordinary beings](Dreams%20of%20extraordinary%20beings.png)
 You probably have **experienced several different types of dream phenomena**, or are interested in them.  You might have dreamed something that came true, gathered knew knowledge, or had an other worldly encounter in dreams. 
 
 D-SETI serious considers alien abduction and ET/NHI contact dreams, memories, and intuitions could serve a SETI effort through two means:
@@ -52,7 +51,7 @@ D-SETI serious considers alien abduction and ET/NHI contact dreams, memories, an
 There seems to be a **wide cluster of phenomenon associated with alien abduction**, out of body experience, near death experience, remote viewing, sleep paralysis, lucid dreaming, psychic mediumship, channeling, psychedelics, and other altered states of consciousness.  ET/NHI experiences are reported to happen in all phases of consciousness and often involve people who have a wide range of experiences.
 
 ## Perhaps even alien abduction, evidenced by anomalous body marks
-![[Art/Dreams that mark the body.png]]
+![Dreams that mark the body](Dreams%20that%20mark%20the%20body.png)
 **Maybe you have considered alien abduction or something like it**.  I was obsessed and terrified by the possibility, even though I had no specific or definitive memories.  Sure, I'd seen strange things in the sky, sure, I had powerful dreams of entities that were are to remember.  But, nothing concrete.  Even though I had no proof, I knew that I needed to confront the possibility, perhaps because I grew up in the 90s and learned to distinguish fantasy from reality while watching Spielberg movies and the X-Files.
 
 Once **I solved my abduction fears in theory** by drafting Missing Time Found, I experienced a series of strangely lucid dreams correlated with discovery of strange body marks.  The dreams directly inspired my inquiry into body marks as evidence for alien abductions, which I presented in my book Galethog the Grey's Field Guide to Anomalous Geometry.  The dreams taught me to use ruler-and-compass geometry to interpret the marks as if they were a message from an nonhuman intelligence.
@@ -62,7 +61,7 @@ Once **I solved my abduction fears in theory** by drafting Missing Time Found, I
 If you'd like to share your experience or for me to take a look at your mark, you can schedule a call with me or send me an email about your mark and experience.
 
 ## Perhaps even angel communication or NHI telepathy, initiated by ritual practices
-![[Art/Angels and ETs answer the call.png]]
+![Angels and ETs answer the call](Angels%20and%20ETs%20answer%20the%20call.png)
 **Maybe you're interested in practices humans have used to contact non-humans.**  I practice and write about dream incubation, lucid dreaming, channeling, Enochian magic, and a variety of Western esoteric practices.  In particular, I write about CE-5, a method popularized by Steven Greer for psychic contact with aliens, which is also called Human Initiated Contact Experience (HICE).  
 
 I was trained in **contact methods through the Rahma** network and practiced the method with Dan Berg at Sale Mountain in Canada.   **I practice Enochian Magic**, which is a form of Western ceremonial magic developed by John Dee in the 1600s, as a precedent for contemporary ET/NHI hypnosis involving psychic phenomenon like written about by Dolore Cannon or John E. Mack. 
@@ -70,7 +69,7 @@ I was trained in **contact methods through the Rahma** network and practiced the
 If you are interested in Western Esotericism and wondering what you're doing on a site that talks about SETI and alien abduction, don't worry, you are in the right place.  You are likely looking for my Book of Galactic Light, which tells my story using Enochian Magic as a CE-5 or HICE method.  People considering or practicing Enochian magic frequently work with me through D-SETI Dreamwork even if they do not have ET/UFO experiences.
 
 # What is D-SETI?
-![[Art/SETI by Entanglement.png]]
+![SETI by Entanglement](SETI%20by%20Entanglement.png)
 D-SETI stands for the Dream Search for ExtraTerrestrial Intelligence.  Or the Dream Study of ExtraTerrestrial Intelligence.  **It is the idea that lucid, shamanic, and telepathic dreams could be a means of SETI.**  This idea has inspired by professional, academic, and artistic activities since around 2012 in response to a childhood involving alien abduction science fiction and real extraordinary dream phenomena like lucid dreaming.
 
 D-SETI Dreamwork is the sole proprietorship through which I offer my dreamwork services, do technical work like data analysis or content production, and publish my books.  

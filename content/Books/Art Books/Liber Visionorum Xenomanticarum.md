@@ -1,0 +1,5 @@
+I wrote and illustrated this book during the summer of 2024.  The DreamWell app, for which I produced dream training and guided meditation audio, pivoted to focus primarily on lucid dreaming as a last ditch effort to make the company profitable.  As a teacher of lucid dreaming, I felt that I needed proof that I had an active lucid dreaming practice, so I bound watercolor paper together as a dream journal, to record and illustrate every dream in a lucid dreaming experiment that would last as long as I had paper in the book. I focused on ET/NHI contact, which is the only theme that motives me to lucid dream.
+
+The experiment was successful and I had a dream each night, with many that had some level of lucidity.  The dream gave me specific instruction about dreaming and my ET/NHI contact inquiries.  They involved what felt to be precognitive dreams that created a rich tapestry of synchronicity and omen that I would interpret to guide my False Memory Ethics writing series (see [[Risks of Anomalous Retrocognition]]).
+
+I will digitize it when it feels appropriate to do so.
