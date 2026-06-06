@@ -32,7 +32,6 @@ I am interested in anomalous geometric body marks associated with dream, trance,
 
 My essay [[Geometry as Communication with Nonhuman Intelligences|Geometry as Communication with Nonhuman Intelligences]] explores how anomalous geometric body marks may constitute a SETI style signal from NHIs.
 
-
 ## Body mark interpretation as a religious practice
 
 In researching early precedents for alien abduction marks, I encountered literature related to witch craft from perhaps 1500s onward.  There was an active tradition of priests and legal people cataloging and debating body marks as evidence of witchcraft, for instance under the presumption that a devil would drink the blood of a witch and leave a mark.  
@@ -111,7 +110,6 @@ All of my DSETI books came from content I published on social media.  I started 
 My book [[Missing Time Found]] happened because I wanted to double check my understanding of regression hypnosis and dreamwork when my client Sandra Newman released her regression on Robert Earl White's Youtube channel.  When I completed the draft content for the book, I had a series of strange dreams then I discovered an anomalous geometric body mark that inspired the Youtube series The Universal Language that became the [[Field Guide to Anomalous Geometry]] and thus this book.
 
 I will produce a series of content for this website and my various social media platform that will explore and draft the content of this new book.  
-
 
 # Participation
 

@@ -12,6 +12,7 @@ tags:
   - enochian-magic
 date: 1-21-2024
 ---
+![[Field Guide to Anomalous Geometry-20260606135512287.png]]
 # Galethog the Grey’s FIELD GUIDE TO ANOMALOUS GEOMETRY
 
 *For Mature Terrans (at every level of hybridization) who seek Eternal Ascension from the 3D Enslavement Matrix or at least Peace and Insight regarding Alien Abduction, offered within through the new Oracular Science of ET Communication through Geometry, thus introducing the Galactic Art of Geometrancy.*
@@ -1418,18 +1419,18 @@ Note: Rotating the figure below the bars demonstrates that the apparent holes at
 
 *Stereotypical RGMP*
 
-| Noumena | Phenomena |
-| --- | --- |
-| Image | ![ttps://lh7-us.googleusercontent.com/uUT1iyaASzWv7UKd-YioCLqxu1CBIWkfBDGBq5jknFMI1aY1DO-Oz6miLYHJSdIZDKQodYdLggyka1cQOPEgoS68PoJtfUwTNqnnFiAts9ktsFxvkuNarc-Aeh1fIBfKuugO8guI-jZg9fgIsXJy2y8](Books/Field%20Guide%20to%20Anomalous%20Geometry.md_Attachments/95902d0a578e4de7659b7bfe7ddee469_MD5.png)|
-| Category | Possibly RGMP |
-| Date | July 1, 2021 |
-| Location | Unknown |
-| Source | RGMP Experiencers and Researchers Group |
-| Manipulation | Crop, scale, levels, sharpen, desaturate |
-| UL (I) | Wife pointed out mark after two nights of vivid and unusual dreams. |
-| UR (it) | Grid of red dots on back. |
-| LR (its) | Friend of RGMP Clue experiencer, both have autoimmune diseases, had childhood trauma, and are psychotherapists. |
-| LL (we) | In context of RGMP Clue, may evidence that mark-makers are a) aware of social relationships and b) may use a variety of related forms beyond typical RGMP grids. |
+| Noumena      | Phenomena                                                                                                                                                                                                                                                                                               |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Image        | ![ttps://lh7-us.googleusercontent.com/uUT1iyaASzWv7UKd-YioCLqxu1CBIWkfBDGBq5jknFMI1aY1DO-Oz6miLYHJSdIZDKQodYdLggyka1cQOPEgoS68PoJtfUwTNqnnFiAts9ktsFxvkuNarc-Aeh1fIBfKuugO8guI-jZg9fgIsXJy2y8](Books/Field%20Guide%20to%20Anomalous%20Geometry.md_Attachments/95902d0a578e4de7659b7bfe7ddee469_MD5.png) |
+| Category     | Possibly RGMP                                                                                                                                                                                                                                                                                           |
+| Date         | July 1, 2021                                                                                                                                                                                                                                                                                            |
+| Location     | Unknown                                                                                                                                                                                                                                                                                                 |
+| Source       | RGMP Experiencers and Researchers Group                                                                                                                                                                                                                                                                 |
+| Manipulation | Crop, scale, levels, sharpen, desaturate                                                                                                                                                                                                                                                                |
+| UL (I)       | Wife pointed out mark after two nights of vivid and unusual dreams.                                                                                                                                                                                                                                     |
+| UR (it)      | Grid of red dots on back.                                                                                                                                                                                                                                                                               |
+| LR (its)     | Friend of RGMP Clue experiencer, both have autoimmune diseases, had childhood trauma, and are psychotherapists.                                                                                                                                                                                         |
+| LL (we)      | In context of RGMP Clue, may evidence that mark-makers are a) aware of social relationships and b) may use a variety of related forms beyond typical RGMP grids.                                                                                                                                        |
 
 ## Figure 48
 
@@ -1451,18 +1452,18 @@ Note: Casting the distance between a diagonally adjacent dot onto the horizontal
 
 *Key to RGMP*
 
-| Noumena | Phenomena |
-| --- | --- |
-| Image | ![ttps://lh7-us.googleusercontent.com/Y1J-usbsWS8ISOR5Tfhihqe-d74RWufyqrN92NxlP0lfLc3Nojr6DvdweFqim0X0r3-gFaoTN91W5GV780Kx3WTb2UpWFa3mnNdbSRlmYSdZ-ToRb1JHoqPO4zyvFzoMOd_G1WWq2Em1Q834l1zpp2s](Books/Field%20Guide%20to%20Anomalous%20Geometry.md_Attachments/b10affcc0cdc36459b4088ba9737db86_MD5.png)|
-| Category | RGMP |
-| Date | July 2019 |
-| Location | Florida, USA |
-| Source | RGMP Experiencers and Researchers FB Group |
-| Manipulation | Crop, scale, levels, sharpen, desaturate |
-| UL (I) | Repeated experiencer discovered a new pattern in a new city. |
-| UR (it) | Line of RGMP dots in straight line from tattoo down back. |
-| LR (its) | Associated with geometric tattoos on the founder of a RGMP research community. |
-| LL (we) | Demonstration of aesthetic and communicative intelligence of mark makers. |
+| Noumena      | Phenomena                                                                                                                                                                                                                                                                                               |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Image        | ![ttps://lh7-us.googleusercontent.com/Y1J-usbsWS8ISOR5Tfhihqe-d74RWufyqrN92NxlP0lfLc3Nojr6DvdweFqim0X0r3-gFaoTN91W5GV780Kx3WTb2UpWFa3mnNdbSRlmYSdZ-ToRb1JHoqPO4zyvFzoMOd_G1WWq2Em1Q834l1zpp2s](Books/Field%20Guide%20to%20Anomalous%20Geometry.md_Attachments/b10affcc0cdc36459b4088ba9737db86_MD5.png) |
+| Category     | RGMP                                                                                                                                                                                                                                                                                                    |
+| Date         | July 2019                                                                                                                                                                                                                                                                                               |
+| Location     | Florida, USA                                                                                                                                                                                                                                                                                            |
+| Source       | RGMP Experiencers and Researchers FB Group                                                                                                                                                                                                                                                              |
+| Manipulation | Crop, scale, levels, sharpen, desaturate                                                                                                                                                                                                                                                                |
+| UL (I)       | Repeated experiencer discovered a new pattern in a new city.                                                                                                                                                                                                                                            |
+| UR (it)      | Line of RGMP dots in straight line from tattoo down back.                                                                                                                                                                                                                                               |
+| LR (its)     | Associated with geometric tattoos on the founder of a RGMP research community.                                                                                                                                                                                                                          |
+| LL (we)      | Demonstration of aesthetic and communicative intelligence of mark makers.                                                                                                                                                                                                                               |
 **
 
 ## Figure 50

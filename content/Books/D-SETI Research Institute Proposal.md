@@ -9,6 +9,8 @@ tags:
   - memory
   - ce-5
 ---
+![[D-SETI Research Institute Proposal-20260606135558636.png]]
+![[_attachments/D-SETI Research Institute Proposal/e643eefd0ab5dd5d7d935ce74133c37d_MD5.svg]]
 
 >[!NOTE]
 >My views on alien abduction research have significantly changed after writing compiling this book, especially because of my ethical research summarized in [Risk of Harmful False Memories in UAP Studies](Risk%20of%20Harmful%20False%20Memories%20in%20UAP%20Studies.md). I have more a more nuanced proposal strategy that will not be public or digitized, to but discussed through secured analog channels.  I have often wondered whether or not to remove this book from the Quadrilogy, but I keep it because I find it compelling as a literary response to the 1992 Unusual Personal Experiences booklet. 
