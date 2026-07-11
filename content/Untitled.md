@@ -1,0 +1,56 @@
+# Daniel Rekshan
+**Blewett, BC, Canada** | 250-602-9141 | daniel.rekshan@gmail.com  
+**Technical Customer Success | Full-Stack Software Engineer | Data Systems Specialist**
+
+## Professional Summary
+Highly skilled Software Engineer and Technical Analyst with over a decade of experience bridging the gap between complex software systems and end-users. Proven track record managing client implementations, triaging database and application bugs, and translating stakeholder needs into technical realities. Deeply embedded in the retreat and holistic wellness community, bringing a patient, empathetic, and solution-oriented approach to customer success.
+
+## Core Competencies
+* **Technical Support & Triage:** API Testing, Bug Isolation, SQL/Database Queries, System Integrations, Root-Cause Analysis.
+* **Web & App Development:** WordPress, Ruby on Rails, React Native, PHP, JavaScript, Python, C#, HTML/CSS.
+* **Data & Analytics:** Data Visualization, Tableau, NLP, Data Mapping, Content Analysis.
+* **Customer & Community Relations:** Client Management, Technical Writing, End-User Training, Volunteer Coordination.
+
+## Professional Experience
+
+**Retreat Sector Operational Support & Marketing** | Nelson, BC region  
+*Technical & Operational Consultant* | April 2026 – Present
+* Speheaded digital marketing and book promotion strategies for a wellness retreat center owner.
+* Managed housekeeping operations for a local retreat center, gaining first-hand insight into the logistical, scheduling, and software pressures faced by retreat hosts.
+
+**D-SETI & Dream Well** | Remote  
+*Technical Co-Founder / Lead Developer* | 2020 – 2026
+* Designed, built, and maintained a mobile application (React Native) and web platforms (WordPress) focused on mindfulness, sleep tracking, and community education.
+* Utilized ML, NLP, and data analysis pipelines to uncover user behavior patterns and maintain dictionary databases.
+* Provided high-touch technical education, session work, and onboarding support to a global community of users interacting with complex database platforms.
+
+**LightNet** | Remote  
+*Technical Co-Founder & CTO* | 2020 – 2022
+* Architected and supported a membership community and group/class management system built on WordPress, serving hundreds of international students.
+* Served as the Tier 3 technical support lead, isolating escalated application bugs, documenting replication steps, and coordinating fixes across internal contributors and external service providers.
+
+**Community Attributes, Inc. (CAI)** | Seattle, WA (Remote)  
+*Lead Data Systems Developer* | 2016 – 2018
+* Served as the primary technical point of contact for corporate, non-profit, and government clients utilizing custom interactive data visualization and mapping platforms.
+* Translated client business requirements into precise technical specifications for the development team, maintaining rigorous quality control and high client satisfaction.
+* Developed backend and frontend solutions utilizing .NET, C#, Python, D3, and ArcGIS.
+
+**Goodreads** | San Francisco, CA  
+*Software Engineer* | 2010 – 2011
+* Owned technical development and user experience optimization for user registration flows, social media integrations, and data analytics pipelines during growth from 2M to 10M users.
+* Collaborated tightly with data teams to analyze user retention and resolve technical onboarding friction points.
+
+**Freelance Web Development** | Remote  
+*Full-Stack Developer & Contractor* | 2012 – 2023
+* Provided end-to-end web engineering, database management, and maintenance services for diverse clients using React, Node, Ruby, Python, PHP, WordPress, and Tableau.
+* Served as Webmaster for the San Francisco Shambhala Center, managing software deployment, updates, and user access controls.
+
+## Community Involvement & Retreat Experience
+* **Volunteer**, Karme Choling Shambhala Retreat Center (Vermont) – Assisted with guest services, center operations, and community programming.
+* **Webmaster**, San Francisco Shambhala Center – Managed digital platform infrastructure and client communication channels.
+
+## Education & Credentials
+* **MA in East-West Psychology** | California Institute of Integral Studies (Focus on Ecopsychology and Quantitative Database Analysis)
+* **BA in Western Liberal Arts** | St. John's College, Annapolis, MD (Double Major equivalent in Philosophy and History of Science)
+* **Certified Hypnotherapist (CHt)** | Depth Hypnosis Spiritual Counseling Modality
+* **PhD Coursework (Integral Noetic Sciences)** | California Institute for Human Sciences

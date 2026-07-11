@@ -57,7 +57,7 @@ I am primarily resolving my ethical risks by the facts:
 
 * Introduction
 * Methods and Ethics for Experiencer Research (see [[MEER Project Proposal]])
-* Hypothesis (see [[Essays/drafts/Geometric Body Marks and D-SETI|Geometric Body Marks and D-SETI]])
+* Hypothesis (see [[Blog/Geometric Body Marks and D-SETI|Geometric Body Marks and D-SETI]])
 	* SETI Style Signal
 	* Earth Lights + NHI
 	* Transpersonal Dreaming (collective unconscious or Large Dream Model)
@@ -87,7 +87,7 @@ My methods are based in Integral Studies, Transpersonal Psychology, Creative Dre
 
 ## Case Studies
 
-The book will involve case studies contextualized by an open database of body marks and dreams.  The case studies will be selected according to my dream guidance, synchronicity, and omen.  For example, I received a series of inquiries while drafting a new essay [[Essays/drafts/Geometric Body Marks and D-SETI|Geometric Body Marks and D-SETI]].   
+The book will involve case studies contextualized by an open database of body marks and dreams.  The case studies will be selected according to my dream guidance, synchronicity, and omen.  For example, I received a series of inquiries while drafting a new essay [[Blog/Geometric Body Marks and D-SETI|Geometric Body Marks and D-SETI]].   
 
 Case studies will archive photos of the mark and reports about the experience.  I will analyze the geometry according to my methods (defined in [[Field Guide to Anomalous Geometry]]), then compare with the body mark catalog, and write up my observations.  
 
